@@ -22,7 +22,9 @@ This is not open source. [PawanOsman](https://github.com/PawanOsman/) can see al
     ```
     tail -30f nohup.out
     ```
-4. The script will monitor target subs latest comments start with ai, wait ChatGPT response, and reply it. E.g. ai What ai What can u do
+4. The script will monitor target subs latest comments start with ai, wait ChatGPT response, and reply it.
+
+   E.g. ai What can u do
     ```
     comment.body ai What can u do
     comment.author Select-University338
